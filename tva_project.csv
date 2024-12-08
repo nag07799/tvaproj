@@ -1,0 +1,51 @@
+Task ID,Phase,Description,Start Date,End Date,Status,Cost
+1,Data Integration & Management Implementation,Task 1,2025-01-18 19:47:52.539762,2024-12-10 19:47:52.539762,Planned,33563
+2,Employee Training & Change Management,Task 2,2024-12-27 19:47:52.539762,2024-12-25 19:47:52.539762,Completed,23928
+3,Employee Training & Change Management,Task 3,2024-12-18 19:47:52.539762,2025-01-22 19:47:52.539762,In Progress,16356
+4,Data Integration & Management Implementation,Task 4,2024-12-11 19:47:52.539762,2025-01-11 19:47:52.539762,In Progress,43930
+5,Data Integration & Management Implementation,Task 5,2024-12-13 19:47:52.539762,2024-12-27 19:47:52.539762,In Progress,38651
+6,Employee Training & Change Management,Task 6,2024-12-11 19:47:52.539762,2024-12-24 19:47:52.539762,Planned,25997
+7,Data Integration & Management Implementation,Task 7,2025-01-23 19:47:52.539762,2025-01-03 19:47:52.539762,Planned,43391
+8,"Complete Launch, Feedback, and System Testing",Task 8,2024-12-10 19:47:52.539762,2024-12-21 19:47:52.539762,Planned,42232
+9,"Complete Launch, Feedback, and System Testing",Task 9,2024-12-19 19:47:52.539762,2025-01-17 19:47:52.539762,In Progress,18962
+10,Legacy System Modernization,Task 10,2025-01-12 19:47:52.539762,2024-12-08 19:47:52.539762,In Progress,30435
+11,Employee Training & Change Management,Task 11,2025-01-16 19:47:52.539762,2025-01-12 19:47:52.539762,Completed,44009
+12,Data Integration & Management Implementation,Task 12,2024-12-21 19:47:52.539762,2024-12-17 19:47:52.539762,In Progress,14403
+13,Data Integration & Management Implementation,Task 13,2024-12-22 19:47:52.539762,2024-12-29 19:47:52.539762,Planned,27582
+14,"Complete Launch, Feedback, and System Testing",Task 14,2024-12-27 19:47:52.539762,2025-01-19 19:47:52.539762,Planned,39844
+15,Requirement Analysis & Solution Design,Task 15,2025-01-11 19:47:52.539762,2025-01-16 19:47:52.539762,In Progress,29381
+16,Requirement Analysis & Solution Design,Task 16,2024-12-30 19:47:52.539762,2024-12-18 19:47:52.539762,Completed,48429
+17,Requirement Analysis & Solution Design,Task 17,2024-12-22 19:47:52.539762,2024-12-09 19:47:52.539762,In Progress,25939
+18,"Complete Launch, Feedback, and System Testing",Task 18,2024-12-20 19:47:52.539762,2024-12-23 19:47:52.539762,In Progress,20787
+19,Employee Training & Change Management,Task 19,2024-12-28 19:47:52.539762,2025-01-08 19:47:52.539762,In Progress,27191
+20,"Complete Launch, Feedback, and System Testing",Task 20,2025-01-24 19:47:52.539762,2024-12-07 19:47:52.539762,Planned,12121
+21,"Complete Launch, Feedback, and System Testing",Task 21,2025-01-25 19:47:52.539762,2025-01-14 19:47:52.539762,Planned,34451
+22,Employee Training & Change Management,Task 22,2024-12-12 19:47:52.539762,2024-12-26 19:47:52.539762,Planned,13886
+23,Data Integration & Management Implementation,Task 23,2025-01-17 19:47:52.539762,2025-01-22 19:47:52.539762,In Progress,32450
+24,Employee Training & Change Management,Task 24,2025-01-11 19:47:52.539762,2025-01-18 19:47:52.539762,Completed,25212
+25,Requirement Analysis & Solution Design,Task 25,2024-12-07 19:47:52.539762,2025-01-16 19:47:52.539762,In Progress,19987
+26,Employee Training & Change Management,Task 26,2025-01-07 19:47:52.539762,2024-12-20 19:47:52.539762,In Progress,26583
+27,Requirement Analysis & Solution Design,Task 27,2024-12-12 19:47:52.539762,2025-01-06 19:47:52.539762,Planned,44215
+28,"Complete Launch, Feedback, and System Testing",Task 28,2025-01-06 19:47:52.539762,2024-12-31 19:47:52.539762,Planned,15181
+29,Data Integration & Management Implementation,Task 29,2024-12-07 19:47:52.539762,2024-12-09 19:47:52.539762,In Progress,21042
+30,Data Integration & Management Implementation,Task 30,2025-01-25 19:47:52.539762,2024-12-10 19:47:52.539762,Completed,15208
+31,Legacy System Modernization,Task 31,2025-01-12 19:47:52.539762,2025-01-06 19:47:52.539762,Planned,16177
+32,Employee Training & Change Management,Task 32,2025-01-10 19:47:52.539762,2025-01-10 19:47:52.539762,Completed,14863
+33,Data Integration & Management Implementation,Task 33,2025-01-24 19:47:52.539762,2025-01-19 19:47:52.539762,Completed,18389
+34,Data Integration & Management Implementation,Task 34,2025-01-05 19:47:52.539762,2024-12-20 19:47:52.539762,In Progress,10894
+35,Requirement Analysis & Solution Design,Task 35,2024-12-10 19:47:52.539762,2025-01-24 19:47:52.539762,In Progress,40142
+36,Employee Training & Change Management,Task 36,2025-01-10 19:47:52.539762,2025-01-16 19:47:52.539762,In Progress,42904
+37,Employee Training & Change Management,Task 37,2025-01-18 19:47:52.539762,2024-12-15 19:47:52.539762,Completed,36813
+38,Employee Training & Change Management,Task 38,2024-12-20 19:47:52.539762,2024-12-26 19:47:52.539762,Planned,49041
+39,"Complete Launch, Feedback, and System Testing",Task 39,2025-01-24 19:47:52.539762,2025-01-07 19:47:52.539762,Planned,35968
+40,Employee Training & Change Management,Task 40,2025-01-15 19:47:52.539762,2024-12-15 19:47:52.539762,In Progress,23688
+41,Legacy System Modernization,Task 41,2024-12-28 19:47:52.539762,2025-01-02 19:47:52.539762,Planned,13419
+42,Data Integration & Management Implementation,Task 42,2024-12-16 19:47:52.539762,2024-12-09 19:47:52.539762,Completed,26552
+43,Employee Training & Change Management,Task 43,2024-12-07 19:47:52.539762,2024-12-10 19:47:52.539762,Completed,16004
+44,Requirement Analysis & Solution Design,Task 44,2024-12-17 19:47:52.539762,2025-01-20 19:47:52.539762,Planned,45620
+45,Employee Training & Change Management,Task 45,2025-01-19 19:47:52.539762,2024-12-21 19:47:52.539762,Completed,30803
+46,Employee Training & Change Management,Task 46,2024-12-30 19:47:52.539762,2025-01-08 19:47:52.539762,Completed,25139
+47,Legacy System Modernization,Task 47,2024-12-09 19:47:52.539762,2024-12-11 19:47:52.539762,Completed,45954
+48,Requirement Analysis & Solution Design,Task 48,2025-01-10 19:47:52.539762,2024-12-10 19:47:52.539762,In Progress,32302
+49,Legacy System Modernization,Task 49,2025-01-11 19:47:52.539762,2025-01-21 19:47:52.539762,In Progress,31533
+50,Legacy System Modernization,Task 50,2025-01-06 19:47:52.539762,2024-12-18 19:47:52.539762,Planned,28161
