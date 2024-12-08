@@ -2,6 +2,11 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
+import warnings
+
+# Ignore all warnings
+warnings.filterwarnings("ignore")
+
 # Load the dataset
 @st.cache
 def load_data():
@@ -24,7 +29,7 @@ def home():
     - **Integrate Data and Management**: For optimized decision-making.
     - **Effective Change Management**: Ensure seamless technology adaptation.
     """)
-    st.image("https://via.placeholder.com/800x300.png", caption='Project Visualization')
+    st.image("tenesee.png", caption='Project Visualization')
 
 # Detailed Project Phases and Tasks with Filters and Visuals
 def project_details():
